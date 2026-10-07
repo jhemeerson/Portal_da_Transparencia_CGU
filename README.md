@@ -18,7 +18,7 @@ A análise transforma um grande volume de transações em uma estrutura de **pri
 
 ## 📊 Dashboard
 
-👉 [**Acessar o Relatório Interativo — Power BI**](https://app.powerbi.com/view?r=eyJrIjoiYjdjZmJhNDItNmY3Yy00YTRlLTgyODQtZDY1YWZkYmM2YTliIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+👉 [**Acessar o Relatório Interativo — Power BI**](https://app.powerbi.com/view?r=eyJrIjoiZWNiM2U5YmYtOGE3OS00YzlhLThjZTEtYjBiM2I2OTkzY2E5IiwidCI6ImY3YTVkZDQwLTZjODctNDE0Yy1hMjBlLTgxNmJiM2JjM2ZiYSJ9)
 
 ---
 
