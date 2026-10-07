@@ -16,6 +16,12 @@ A análise transforma um grande volume de transações em uma estrutura de **pri
 
 ---
 
+## 📊 Dashboard
+
+👉 [**Acessar o Relatório Interativo — Power BI**](https://app.powerbi.com/view?r=eyJrIjoiYjdjZmJhNDItNmY3Yy00YTRlLTgyODQtZDY1YWZkYmM2YTliIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+
+---
+
 ## 🎯 Objetivos
 
 * Analisar o comportamento das transações financeiras.
@@ -522,3 +528,14 @@ Os principais achados indicam:
 * Relações recorrentes entre portadores e favorecidos.
 
 O principal resultado do projeto é a mudança de uma abordagem puramente descritiva para uma abordagem de **priorização baseada em risco**, permitindo que gestores direcionem esforços para os casos que combinam maior impacto financeiro, anomalia estatística, concentração e recorrência.
+
+---
+
+# 👨‍💻 Autor
+
+**Jhemerson Oliveira**
+
+**Analista de Dados | Business Intelligence**
+
+🔗 [**Portfólio**](https://portfolio-jhemerson-oliveira.lovable.app/)
+
