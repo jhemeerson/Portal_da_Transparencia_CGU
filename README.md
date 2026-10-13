@@ -44,7 +44,7 @@ A análise transforma um grande volume de transações em uma estrutura de **pri
 | **Ticket médio**                |             R$ 5.540,62 |
 | **Transações em nível normal**  |                  93,32% |
 | **Transações em nível crítico** |                   4,11% |
-| **Período analisado**           | 01/01/2023 — 31/12/2026 |
+| **Período analisado**           | 01/01/2024 — 31/08/2026 |
 
 Os dados indicam que, embora a quantidade de transações críticas represente uma parcela relativamente pequena do universo analisado, os registros críticos podem apresentar **impacto financeiro relevante**.
 
